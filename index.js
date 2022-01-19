@@ -181,7 +181,7 @@ class CountDown extends React.Component {
       <View style={{justifyContent: 'center', alignItems: 'center'}}>
         <Text style={[
           styles.separatorTxt,
-          {fontSize: size * 1.2},
+//           {fontSize: size * 1.2},
           separatorStyle,
         ]}>
           {':'}
